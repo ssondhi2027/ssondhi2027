@@ -4,7 +4,7 @@
 
 I turn messy operational and regulatory data into decisions: modelling 30 years of OSFI bank filings in dbt, forecasting aircraft maintenance risk, and building the dashboards and web apps that put the numbers in front of people.
 
-**Portfolio:** [simranvirsinghdataanalystportfolio.netlify.app](https://simranvirsinghdataanalystportfolio.netlify.app) &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/simranvir-singh](https://www.linkedin.com/in/simranvir-singh)
+**Portfolio:** [simranvirsinghportfolio.netlify.app](https://simranvirsinghdataanalystportfolio.netlify.app) &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/simranvir-singh](https://www.linkedin.com/in/simranvir-singh)
 
 ---
 
